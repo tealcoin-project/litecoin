@@ -47,3 +47,4 @@ static const int INVALID_CB_NO_BAN_VERSION = 70015;
 
 #endif // BITCOIN_VERSION_H
 
+
