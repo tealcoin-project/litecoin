@@ -1,8 +1,6 @@
 Tealcoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/tealcoin-project/tealcoin.svg?branch=master)](https://travis-ci.org/tealcoin-project/tealcoin)
-
 https://tealcoin-project.io
 
 What is Tealcoin?
