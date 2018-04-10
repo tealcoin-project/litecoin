@@ -507,7 +507,7 @@ std::string HelpMessage(HelpMessageMode mode)
 std::string LicenseInfo()
 {
     const std::string URL_SOURCE_CODE = "<https://github.com/tealcoin-project/tealcoin>";
-    const std::string URL_WEBSITE = "<https://tealcoin.org>";
+    const std::string URL_WEBSITE = "<https://tealcoin-project.io>";
 
     return CopyrightHolders(strprintf(_("Copyright (C) %i-%i"), 2011, COPYRIGHT_YEAR) + " ") + "\n" +
            "\n" +

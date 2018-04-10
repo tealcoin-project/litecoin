@@ -15,7 +15,7 @@ out collectively by the network. Tealcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Tealcoin Core software, see [https://tealcoin.org](https://tealcoin.org).
+the Tealcoin Core software, see [https://tealcoin-project.io](https://tealcoin-project.io).
 
 License
 -------
