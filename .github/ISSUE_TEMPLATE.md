@@ -2,7 +2,7 @@
 
 This issue tracker is only for technical issues related to tealcoin-core.
 
-General tealcoin questions and/or support requests and are best directed to the [tealcointalk forums](http://tealcoin-project/tealcointalk/).
+General tealcoin questions and/or support requests and are best directed to the [tealcointalk forums](http://tealcoin-project.io/tealcointalk/).
 
 For reporting security issues, please contact the Tealcoin developers on the #tealcoin-dev Freenode IRC channel or alternatively you can email us at contact@tealcoin.org.
 
