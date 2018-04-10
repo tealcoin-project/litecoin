@@ -267,7 +267,7 @@ class SegWitTest(BitcoinTestFramework):
         # Now create tx2, which will spend from txid1.
         tx = CTransaction()
         tx.vin.append(CTxIn(COutPoint(int(txid1, 16), 0), b''))
-        tx.vout.append(CTxOut(int(49.99*COIN), CScript([OP_TRUE])))
+        tx.vout.append(CTxOut(int(4.99*COIN), CScript([OP_TRUE])))
         tx2_hex = self.nodes[0].signrawtransaction(ToHex(tx))['hex']
         txid2 = self.nodes[0].sendrawtransaction(tx2_hex)
         tx = FromHex(CTransaction(), tx2_hex)
@@ -276,7 +276,7 @@ class SegWitTest(BitcoinTestFramework):
         # Now create tx3, which will spend from txid2
         tx = CTransaction()
         tx.vin.append(CTxIn(COutPoint(int(txid2, 16), 0), b""))
-        tx.vout.append(CTxOut(int(49.95*COIN), CScript([OP_TRUE]))) # Huge fee
+        tx.vout.append(CTxOut(int(4.95*COIN), CScript([OP_TRUE]))) # Huge fee
         tx.calc_sha256()
         txid3 = self.nodes[0].sendrawtransaction(ToHex(tx))
         assert(tx.wit.is_null())
