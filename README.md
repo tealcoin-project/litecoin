@@ -28,7 +28,7 @@ Re-targeting every 48 blocks approximately every 4 minutes.
 
 5 coins reward
 
-Make it with a very low mining difficulty
+Make with a very low mining difficulty
 
 For more information, as well as an immediately useable, binary version of
 the Tealcoin Core software, see [https://tealcoin-project.io](https://tealcoin-project.io).
