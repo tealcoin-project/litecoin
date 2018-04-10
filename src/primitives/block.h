@@ -161,3 +161,4 @@ struct CBlockLocator
 int64_t GetBlockWeight(const CBlock& tx);
 
 #endif // BITCOIN_PRIMITIVES_BLOCK_H
+

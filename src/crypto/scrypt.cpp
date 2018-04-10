@@ -25,6 +25,7 @@
  *
  * This file was originally written by Colin Percival as part of the Tarsnap
  * online backup system.
+ * 
  */
 
 #include "crypto/scrypt.h"
