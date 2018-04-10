@@ -16,19 +16,13 @@ software which enables the use of this currency.
 
 Tealcoin started in March 2018 as a variant of Litecoin using Scrypt as the Proof-of-Work (PoW) hash algorithm.
 
-Max Money 20,000,000
-
-Total Supply 126,140,000
-
-Subsidy halves every 12,614,000 blocks which will occur approximately every 2 years.
-
-Block time change to 5 seconds
-
-Re-targeting every 48 blocks approximately every 4 minutes.
-
-5 coins reward
-
-Make with a very low mining difficulty
+- Max Money 20,000,000
+- Total Supply 126,140,000
+- Subsidy halves every 12,614,000 blocks which will occur approximately every 2 years.
+- Block time change to 5 seconds
+- Re-targeting every 48 blocks approximately every 4 minutes.
+- 5 coins reward
+- Make with a very low mining difficulty
 
 For more information, as well as an immediately useable, binary version of
 the Tealcoin Core software, see [https://tealcoin-project.io](https://tealcoin-project.io).
