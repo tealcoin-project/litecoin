@@ -24,17 +24,7 @@ information or see https://opensource.org/licenses/MIT.
 Development Process
 -------------------
 
-The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/tealcoin-project/tealcoin/tags) are created
-regularly to indicate new official, stable release versions of Tealcoin Core.
-
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-The developer [mailing list](https://groups.google.com/forum/#!forum/tealcoin-dev)
-should be used to discuss complicated or controversial changes before working
-on a patch set.
-
-Developer IRC can be found on Freenode at #tealcoin-dev.
 
 Testing
 -------
