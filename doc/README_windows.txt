@@ -19,5 +19,5 @@ depending on the speed of your computer and network connection, the synchronizat
 process can take anywhere from a few hours to a day or more.
 
 See the tealcoin wiki at:
-  https://tealcoin.info/
+  https://tealcoin-project.io/tealcoin_info/
 for more help and information.

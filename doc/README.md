@@ -28,10 +28,10 @@ Drag Tealcoin-Core to your applications folder, and then run Tealcoin-Core.
 
 ### Need Help?
 
-* See the documentation at the [Tealcoin Wiki](https://tealcoin.info/)
+* See the documentation at the [Tealcoin Wiki](https://tealcoin-project.io/tealcoin_info/)
 for help and more information.
 * Ask for help on [#tealcoin](http://webchat.freenode.net?channels=tealcoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=tealcoin).
-* Ask for help on the [TealcoinTalk](https://tealcointalk.io/) forums.
+* Ask for help on the [TealcoinTalk](https://tealcoin-project.io/tealcointalk/) forums.
 
 Building
 ---------------------
@@ -61,7 +61,7 @@ The Tealcoin repo's [root README](/README.md) contains relevant information on t
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [TealcoinTalk](https://tealcointalk.io/) forums.
+* Discuss on the [TealcoinTalk](https://tealcoin-project.io/tealcointalk/) forums.
 * Discuss general Tealcoin development on #tealcoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=tealcoin-dev).
 
 ### Miscellaneous
